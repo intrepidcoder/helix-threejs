@@ -115,4 +115,4 @@ window.addEventListener(function() {
     renderer.setSize(width, height);
     camera.aspect = width / height;
     camera.updateProjectionMatrix();
-};
+});
