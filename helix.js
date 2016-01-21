@@ -110,7 +110,7 @@ function init() {
 init();
 
 // Create a function that is called whenever the window is resized.
-window.addEventListener(function() {
+window.addEventListener('resize', function() {
     var width = window.innerWidth, height = window.innerHeight;
     renderer.setSize(width, height);
     camera.aspect = width / height;
