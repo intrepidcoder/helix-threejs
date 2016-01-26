@@ -7,4 +7,4 @@ Also, uses [dat.GUI](https://code.google.com/p/dat-gui/) to display a simple con
 
 You can view the helix online at https://intrepidcoder.github.io/helix-threejs/
 
-To run locally, download the source code in to a folder and open `index.html` in a web browser. 
+To run locally, download the source code into a folder and open `index.html` in a web browser. 
